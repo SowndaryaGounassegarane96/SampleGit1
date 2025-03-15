@@ -9,5 +9,9 @@ public void a2()
 {
 	System.out.println(2);
 }
+public void a3()
+{
+	System.out.println(3);
+}
 
 }
